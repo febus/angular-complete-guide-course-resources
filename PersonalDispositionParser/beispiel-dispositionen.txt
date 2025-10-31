@@ -1,0 +1,29 @@
+# Beispiel Dispositionsdaten
+# Format: DD.MM.YYYY|PersonalNr|HH:MM|HH:MM|Projekt|Tätigkeit|TYP|Zuschlag%
+
+# Normale Arbeitszeiten
+31.10.2025|MA001|08:00|17:00|Projekt Alpha|Entwicklung|NORMAL|0
+31.10.2025|MA002|09:00|18:00|Premium Projekt Beta|Beratung|NORMAL|0
+31.10.2025|MA003|08:00|16:00|Projekt Gamma|Support|NORMAL|0
+
+# Nachtarbeit
+31.10.2025|MA003|22:00|06:00|Projekt Gamma|Nacht-Support|NACHT|0
+01.11.2025|MA001|23:00|07:00|Projekt Alpha|Wartung|NACHT|0
+
+# Wochenendarbeit
+01.11.2025|MA001|10:00|14:00|Projekt Alpha|Meeting|WE|0
+02.11.2025|MA002|08:00|16:00|Premium Projekt Beta|Entwicklung|WE|0
+
+# Überstunden
+01.11.2025|MA002|08:00|20:00|Premium Projekt Beta|Entwicklung|UE|0
+02.11.2025|MA003|08:00|22:00|Projekt Gamma|Hotfix|UE|0
+
+# Schulung
+03.11.2025|MA001|09:00|17:00|Interne Schulung|Angular Training|SCHULUNG|0
+03.11.2025|MA002|09:00|17:00|Interne Schulung|Angular Training|SCHULUNG|0
+
+# Bereitschaft
+04.11.2025|MA003|18:00|22:00|Projekt Gamma|Bereitschaftsdienst|BEREITSCHAFT|0
+
+# Feiertag
+25.12.2025|MA003|08:00|16:00|Projekt Gamma|Notfall-Support|FEIERTAG|0

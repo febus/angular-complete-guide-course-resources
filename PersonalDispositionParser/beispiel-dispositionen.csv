@@ -1,0 +1,7 @@
+Datum,PersonalNr,Start,Ende,Projekt,Tätigkeit,Typ,Zuschlag
+31.10.2025,MA001,08:00,16:00,Projekt Epsilon,Entwicklung,NORMAL,0
+31.10.2025,MA002,09:00,17:00,Projekt Zeta,Beratung,NORMAL,0
+31.10.2025,MA003,14:00,22:00,Projekt Eta,Support,UE,0
+01.11.2025,MA001,22:00,06:00,Projekt Epsilon,Wartung,NACHT,0
+02.11.2025,MA002,10:00,18:00,Premium Projekt Theta,Entwicklung,WE,0
+03.11.2025,MA003,08:00,12:00,Projekt Eta,Meeting,NORMAL,0
